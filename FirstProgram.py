@@ -1,5 +1,6 @@
-print("Tonmoy")
-print("My name is Tajbir")
-print(7477554.87)
-
-dfkjgsmdkgfnnmxfgknfsdkjgs
+name="Shams Tajbir "
+age=21
+price=25.99
+print("My name is: ",name)
+print("My age is :",age)
+print("Product price:",price)
