@@ -1,5 +1,8 @@
-age=23
-old=True
-a=None
-print(type(old))
-print(type(a))
+a=9
+b=2
+
+print(a+b)
+print(a-b)
+print(a/b)
+print(a*b)
+print(a%b)
