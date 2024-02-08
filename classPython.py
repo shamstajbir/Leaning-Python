@@ -4,8 +4,8 @@ class Student:
         self.name = ""
 
     def in_info(self):
-        self.uid = int(input("Enter uid: "))
-        self.name = input("Enter name: ")
+        self.uid = int(input("Enter your uid: "))
+        self.name = input("Enter your name: ")
 
 
 class Subjects(Student):
@@ -14,7 +14,7 @@ class Subjects(Student):
         self.m1 = 0
 
     def in_subjects(self):
-        self.m1 = float(input("Enter marks in 5 subjects (out of 500): "))
+        self.m1 = float(input("Enter your marks in 5 subjects (out of 500): "))
 
 
 class Sports(Student):
@@ -23,7 +23,7 @@ class Sports(Student):
         self.m2 = 0
 
     def in_sports(self):
-        self.m2 = int(input("Enter marks in sports: "))
+        self.m2 = int(input("Enter your marks in sports: "))
 
 
 class Result(Subjects, Sports):
