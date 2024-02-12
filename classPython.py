@@ -31,7 +31,7 @@ class Result(Subjects, Sports):
         print("\nuid:", self.uid)
         print("Name:", self.name)
         print("Academic Marks:", self.m1 / 5)
-        print("Sports marks:", self.m2)
+        print("Sports marks", self.m2)
         print("Final marks (out of 100):", float((self.m1 / 5 + self.m2) / 2.00))
 
 
