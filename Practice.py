@@ -1,5 +1,5 @@
-a=float(input("Enter a Number:"))
-b= float(input("Enter another Number:"))
-avg=(a+b)
+a=int(input("Enter a Number:"))
+b=int(input("Enter another Number:"))
 
-print("The Average is:",avg/2)
+
+print(a>=b)
