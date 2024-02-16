@@ -1,9 +1,2 @@
-a=50
-b=20
-
-print(a==b)#False
-print(a!=b)#True
-print(a>=b)#True
-print(a>b)#True
-print(a<b)#False
-print(a<=b)#False
+str1="I am Tajbir. \n and you"
+print(str1)
