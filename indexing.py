@@ -77,3 +77,4 @@ Abs = pow(10,digits)
 df['TotalBsmtSF'] = df['TotalBsmtSF'].apply(lambda x: (x/Abs))
 
 df.head()
+print("Tajbir 22BAI70647")
