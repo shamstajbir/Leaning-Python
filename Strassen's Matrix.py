@@ -1,8 +1,5 @@
 def strassen(A, B):
-    """
-    Performs matrix multiplication using Strassen's algorithm.
-    Assumes A and B are square matrices with dimensions as power of 2.
-    """
+
     n = len(A)
 
     if n == 1:
