@@ -1,3 +1,3 @@
 str="Shams Tajbir "
-ch=str[7]
-print(ch)
+
+print(str [1:4])
