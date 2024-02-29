@@ -39,7 +39,7 @@ plt.scatter(X_test, Y_test, color='red')
 plt.plot(X_test, linear_model.predict(X_test), color='blue')
 plt.title('Salary Vs Experience (Testing set)')
 plt.xlabel('Years of Experience')
-plt.ylabel('Salary')
+plt.ylabel('Salary of employee')
 plt.show()
 
 y_pred = linear_model.predict(X_test)
