@@ -1,10 +1,2 @@
-a=9
-b=2
-
-print(a+b)
-print(a-b)
-print(a/b)
-print(a*b)
-print(a%b)#reminder
-print(a**b)#a^b
-print(a//b)
+name =input("Write a name:")
+print("press what you want to find :",len(name))
