@@ -10,4 +10,4 @@ student_name, student_age, student_grade = get_student_info()
 
 print("Student Name:", student_name)
 print("Student Age:", student_age)
-print("Student Grade:", student_grade)
+print
