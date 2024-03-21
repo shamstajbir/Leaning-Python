@@ -1,2 +1,5 @@
-str="My name is Tajbir"
-print(str.endswith("ir"))
+def greet(name):
+    return f"Hello, {name}!"
+
+welcome = greet
+print(welcome("TAJBIR"))
