@@ -1,2 +1,2 @@
-name = input("What is your name?")
-print(name)
+t=(10)
+print(tuple)
