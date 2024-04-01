@@ -1,11 +1,5 @@
-# There are two variables, a and b from input
-a = input()
-b = input()
+print("Welcome to the Band Name Generator.")
+city=input("What is the name your city ?\n")
+pet=input("What is the pet name?")
+print("Band name",city+pet)
 
-c=a
-a=b
-b=c
-
-
-print("a: " + a)
-print("b: " + b)
