@@ -2,4 +2,4 @@
 score=3
 height=1.8
 winningScore =True
-print(f"your score is {score} ")
+print(f"your score is :{score} ,your height is :{height},your winningScore is :{winningScore}")
