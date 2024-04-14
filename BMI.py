@@ -1,6 +1,6 @@
 # 1st input: enter height in meters e.g: 1.95
 height = input()
-# 2nd input: enter weight in kilograms e.g: 88
+# 2nd input: enter weight in kilograms e.g: 89
 weight = input()
 
 height_as_float=float(height)
