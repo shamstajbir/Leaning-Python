@@ -1,7 +1,3 @@
-# write a python program to demonstrate various
-# ways of accessing the string .by using indexing
-# (both positive and negative),
-# by using slice operator.
 
 if __name__ == "__main__":
 
