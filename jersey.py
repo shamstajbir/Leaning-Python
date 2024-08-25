@@ -25,6 +25,7 @@ while running:
     if x + 200 > width or x < 0:
         speed_x = -speed_x
 
+
     window.fill(WHITE)
     window.blit(jersey_img, (x, y))
     pygame.display.update()
