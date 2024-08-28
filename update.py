@@ -7,7 +7,7 @@ def update_contact(contact_book):
         if (search_key.lower() in contact["name"].lower()):
             print(f"Found index: {idx+1} !!!\n{contact['name']} - {contact['phone']} - {contact['email']}")
 
-    selected_idx = int(input("Enter a   contact index to update: "))
+    selected_idx = int(input("Enter a   contact index to  update: "))
 
     new_name = contact_book[selected_idx-1]["name"]
     new_phone = contact_book[selected_idx-1]["phone"]
