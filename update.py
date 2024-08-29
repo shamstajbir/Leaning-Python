@@ -13,7 +13,7 @@ def update_contact(contact_book):
     new_phone = contact_book[selected_idx-1]["phone"]
     new_email = contact_book[selected_idx-1]["email"]
 
-    up1 = input("Do you want to  update the name [y to proceed]: ")
+    up1 = input("Do you  want to  update the name [y to proceed]: ")
     if (up1 == "y"):
         new_name = input("Enter new name: ")
 
