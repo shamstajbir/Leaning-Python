@@ -1,41 +1,31 @@
-import backup
+import nltk
+from nltk.chat.util import Chat, reflections
 
-def update_contact(contact_book):
-    search_key = input("Enter name to search and update: ")
+# Define the chatbot responses
+pairs = [
+    (r"hi|hello|hey", ["Hello! How can I assist you today?", "Hi there! What's up?"]),
+    (r"how are you?", ["I'm doing great, thank you! How about you?", "I'm fantastic! How are you?"]),
+    (r"what's your name?", ["I'm your friendly chatbot. What can I call you?", "You can call me Chatbot. How can I help you?"]),
+    (r"my name is (.*)", ["Nice to meet you, %1! How can I assist you today?"]),
+    (r"how can you help me?", ["I can chat with you and answer your questions. What would you like to talk about?"]),
+    (r"thank you|thanks", ["You're welcome!", "No problem at all!"]),
+    (r"(.*)", ["Sorry, I didn't understand that. Can you rephrase?", "Hmm, could you tell me more about that?"]),
+]
 
-    for idx, contact in enumerate(contact_book):
-        if (search_key.lower() in contact["name"].lower()):
-            print(f"Found index: {idx+1} !!!\n{contact['name']} - {contact['phone']} - {contact['email']}")
+# Create the chatbot
+chatbot = Chat(pairs, reflections)
 
-    selected_idx = int(input("Enter a   contact index to  update: "))
+# Function to start the chatbot
+def start_chat():
+    print("Hi! I'm here to chat with you. Type 'quit' to end the conversation.")
+    while True:
+        user_input = input("You: ")
+        if user_input.lower() in ['quit', 'exit', 'bye']:
+            print("Chatbot: Goodbye! Have a great day!")
+            break
+        response = chatbot.respond(user_input)
+        print(f"Chatbot: {response}")
 
-    new_name = contact_book[selected_idx-1]["name"]
-    new_phone = contact_book[selected_idx-1]["phone"]
-    new_email = contact_book[selected_idx-1]["email"]
-
-    up1 = input("Do you  want to  update the name [y to proceed]: ")
-    if (up1 == "y"):
-        new_name = input("Enter new name: ")
-
-    up2 = input("Do you want to update the phone [y to proceed]: ")
-    if (up2 == "y"):
-        new_phone = input("Enter new phone: ")
-    up3 = input("Do you want to update the email [y to proceed]: ")
-    if (up3 == "y"):
-        new_email = input("Enter new email: ")
-
-    contact_book[selected_idx-1].update(
-        {
-            "name": new_name,
-            "phone": new_phone,
-            "email": new_email,
-        }
-
-    )
-
-
-    print("Contact updated successfully!!!")
-
-    backup.backup_contact(contact_book)
-
-    return contact_book
+# Start the chatbot
+if __name__ == "__main__":
+    start_chat()
