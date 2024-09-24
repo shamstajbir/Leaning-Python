@@ -1,78 +1,49 @@
-import numpy as np
+import tensorflow as tf
+from tensorflow.keras.datasets import mnist
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPooling2D
+from tensorflow.keras.utils import to_categorical
 
+batch_size = 128
+num_classes = 10
+epochs = 12
 
-# Activation function: Sigmoid
-def sigmoid(x):
-    return 1 / (1 + np.exp(-x))
+img_rows, img_cols = 28, 28
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
 
+x_train = x_train.reshape(x_train.shape[0], img_rows, img_cols, 1)
+x_test = x_test.reshape(x_test.shape[0], img_rows, img_cols, 1)
 
-# Derivative of Sigmoid (for backpropagation)
-def sigmoid_derivative(x):
-    return x * (1 - x)
+x_train = x_train.astype('float32') / 255
+x_test = x_test.astype('float32') / 255
 
+print('x_train shape:', x_train.shape)
+print(x_train.shape[0], 'train samples')
+print(x_test.shape[0], 'test samples')
 
-# MLP Class
-class MLP:
-    def __init__(self, input_size, hidden_size, output_size):
-        # Initialize weights
-        self.weights_input_hidden = np.random.uniform(-1, 1, (input_size, hidden_size))
-        self.weights_hidden_output = np.random.uniform(-1, 1, (hidden_size, output_size))
+y_train = to_categorical(y_train, num_classes)
+y_test = to_categorical(y_test, num_classes)  # Add this line
 
-        # Initialize biases
-        self.bias_hidden = np.random.uniform(-1, 1, (1, hidden_size))
-        self.bias_output = np.random.uniform(-1, 1, (1, output_size))
+model = Sequential()
+model.add(Conv2D(32, kernel_size=(3,3), activation='relu', input_shape=(img_rows,img_cols,1)))
+model.add(Conv2D(64, (3,3), activation='relu'))
+model.add(MaxPooling2D(pool_size=(2,2)))
+model.add(Dropout(0.25))
+model.add(Flatten())
+model.add(Dense(128, activation='relu'))
+model.add(Dropout(0.5))
+model.add(Dense(num_classes,activation='softmax'))
 
-    def forward(self, inputs):
-        # Forward pass from input layer to hidden layer
-        self.hidden_layer_input = np.dot(inputs, self.weights_input_hidden) + self.bias_hidden
-        self.hidden_layer_output = sigmoid(self.hidden_layer_input)
+model.compile(loss='categorical_crossentropy',
+              optimizer='adadelta',
+              metrics=['accuracy'])
 
-        # Forward pass from hidden layer to output layer
-        self.output_layer_input = np.dot(self.hidden_layer_output, self.weights_hidden_output) + self.bias_output
-        self.output = sigmoid(self.output_layer_input)
+model.fit(x_train, y_train,
+          batch_size=batch_size,
+          epochs=epochs,
+          verbose=1,
+          validation_data=(x_test, y_test))
 
-        return self.output
-
-    def backward(self, inputs, actual_output, predicted_output, learning_rate):
-        # Calculate the error (predicted - actual)
-        output_error = actual_output - predicted_output
-        output_delta = output_error * sigmoid_derivative(predicted_output)
-
-        # Calculate error for hidden layer
-        hidden_error = np.dot(output_delta, self.weights_hidden_output.T)
-        hidden_delta = hidden_error * sigmoid_derivative(self.hidden_layer_output)
-
-        # Update weights and biases
-        self.weights_hidden_output += np.dot(self.hidden_layer_output.T, output_delta) * learning_rate
-        self.weights_input_hidden += np.dot(inputs.T, hidden_delta) * learning_rate
-        self.bias_output += np.sum(output_delta, axis=0, keepdims=True) * learning_rate
-        self.bias_hidden += np.sum(hidden_delta, axis=0, keepdims=True) * learning_rate
-
-    def train(self, inputs, actual_output, epochs, learning_rate):
-        for epoch in range(epochs):
-            predicted_output = self.forward(inputs)
-            self.backward(inputs, actual_output, predicted_output, learning_rate)
-
-    def predict(self, inputs):
-        return self.forward(inputs)
-
-
-# Example: XOR Problem
-if __name__ == "__main__":
-    # XOR Input and Output (0/1)
-    inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
-    actual_output = np.array([[0], [1], [1], [0]])
-
-    # Define MLP parameters: 2 input nodes, 4 hidden nodes, 1 output node
-    mlp = MLP(input_size=2, hidden_size=4, output_size=1)
-
-    # Train the MLP
-    epochs = 10000
-    learning_rate = 0.1
-    mlp.train(inputs, actual_output, epochs, learning_rate)
-
-    # Test the MLP
-    print("Predicted output after training:")
-    print(mlp.predict(inputs))
-
-
+score = model.evaluate(x_test, y_test, verbose=0)
+print('Test loss:', score[0])
+print('Test accuracy:',score[1])
