@@ -1,59 +1,87 @@
 import numpy as np
 
-X = np.array([[1, 0, 1, 0],
-              [1, 0, 1, 1],
-              [0, 1, 0, 1]
-              ])
 
-print('\ninput:')
-print(X)
-
-y = np.array([[1], [1], [0]])
-
-print('\nActual Output:')
-print(y)
-
-
+# Sigmoid activation function and its derivative
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
 
-def derivatives_sigmoid(x):
+def sigmoid_derivative(x):
     return x * (1 - x)
 
 
-epoch = 5000
-lr = 0.1
-inputlayer_nerourns = X.shape[1]
-hiddenlayer_nerourns = 3
-output_neurons = 1
+# Mean Squared Error loss function and its derivative
+def mean_squared_error(y_true, y_pred):
+    return np.mean((y_true - y_pred) ** 2)
 
-wh = np.random.uniform(size=(inputlayer_nerourns, hiddenlayer_nerourns))
-bh = np.random.uniform(size=(1, hiddenlayer_nerourns))
-wout = np.random.uniform(size=(hiddenlayer_nerourns, output_neurons))
-bout = np.random.uniform(size=(1, output_neurons))
 
-for i in range(epoch):
-    hidden_layer_input1 = np.dot(X, wh)
-    hidden_layer_input = hidden_layer_input1 + bh
-    hidden_layer_activations = sigmoid(hidden_layer_input)
+def mse_derivative(y_true, y_pred):
+    return y_pred - y_true
 
-    output_layer_input1 = np.dot(hidden_layer_activations, wout)
-    output_layer_input = output_layer_input1 + bout
-    output = sigmoid(output_layer_input)
 
-    E = y - output
-    slope_output_layer = derivatives_sigmoid(output)
-    slope_hidden_layer = derivatives_sigmoid(hidden_layer_activations)
-    d_output = E * slope_output_layer
+# Neural Network class
+class NeuralNetwork:
+    def __init__(self, input_size, hidden_size, output_size):
+        # Initialize weights and biases
+        self.weights_input_hidden = np.random.rand(input_size, hidden_size)
+        self.bias_hidden = np.random.rand(hidden_size)
+        self.weights_hidden_output = np.random.rand(hidden_size, output_size)
+        self.bias_output = np.random.rand(output_size)
 
-    Error_at_hidden_layer = d_output.dot(wout.T)
-    d_hiddenlayer = Error_at_hidden_layer * slope_hidden_layer
+    def forward_propagation(self, X):
+        # Hidden layer
+        self.hidden_input = np.dot(X, self.weights_input_hidden) + self.bias_hidden
+        self.hidden_output = sigmoid(self.hidden_input)
 
-    wout += hidden_layer_activations.T.dot(d_output) * lr
-    bout += np.sum(d_output, axis=0, keepdims=True) * lr
-    wh += X.T.dot(d_hiddenlayer) * lr
-    bh += np.sum(d_hiddenlayer, axis=0, keepdims=True) * lr
+        # Output layer
+        self.output_input = np.dot(self.hidden_output, self.weights_hidden_output) + self.bias_output
+        self.output = sigmoid(self.output_input)
 
-print('\nOutput form the model:')
-print(output)
+        return self.output
+
+    def back_propagation(self, X, y, learning_rate):
+        # Calculate output error
+        output_error = mse_derivative(y, self.output)
+        output_delta = output_error * sigmoid_derivative(self.output)
+
+        # Calculate hidden layer error
+        hidden_error = output_delta.dot(self.weights_hidden_output.T)
+        hidden_delta = hidden_error * sigmoid_derivative(self.hidden_output)
+
+        # Update weights and biases for hidden -> output
+        self.weights_hidden_output -= self.hidden_output.T.dot(output_delta) * learning_rate
+        self.bias_output -= np.sum(output_delta, axis=0) * learning_rate
+
+        # Update weights and biases for input -> hidden
+        self.weights_input_hidden -= X.T.dot(hidden_delta) * learning_rate
+        self.bias_hidden -= np.sum(hidden_delta, axis=0) * learning_rate
+
+    def train(self, X, y, epochs, learning_rate):
+        for _ in range(epochs):
+            self.forward_propagation(X)
+            self.back_propagation(X, y, learning_rate)
+
+
+# Example usage
+if __name__ == "__main__":
+    # Define input and output
+    X = np.array([[0, 0],
+                  [0, 1],
+                  [1, 0],
+                  [1, 1]])
+    y = np.array([[0],
+                  [1],
+                  [1],
+                  [0]])
+
+    # Create Neural Network
+    nn = NeuralNetwork(input_size=2, hidden_size=2, output_size=1)
+
+    # Train the network
+    nn.train(X, y, epochs=10000, learning_rate=0.1)
+
+    # Test the network
+    output = nn.forward_propagation(X)
+    print("Predicted Output:")
+    print(output)
+
