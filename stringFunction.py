@@ -1,2 +1,1 @@
-
-print('welcome to "TAJBIR"')
+print

@@ -1,13 +1,20 @@
-year=int(input("Enter a year:"))
-if year % 4==0 :
-    if year % 100 == 0:
-        if year % 400 == 0:
-         print("The year is leap year.")
-        else:
-         print("The year is not leap year.")
-    else :
-     print("The year is leap year.")
-else:
- print("The year is not leap year.")
+file = open("finalpract.txt", "w")
 
+file.write("Hello, World!")
 
+file.writelines(["\n", "This is a new line", "\n", "This is another new line", "\n", "This is the last new line", "\n"])
+
+file.flush()
+print(file.tell())
+file.seek(5)
+print(file.tell())
+
+file.close()
+
+file = open("finalpract.txt", "r")
+
+contents = file.read()
+
+print(contents)
+
+file.close()

@@ -4,8 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="printing new">
+    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="Pizza_Deliveries_updated1">
+      <change afterPath="$PROJECT_DIR$/01-MULTIPLICATION.PY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_slicing_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funny_Motion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QR making .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QR-making.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bikeshare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/book_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lending_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snakeGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsciiValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/AsciiValue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calendar_Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar_Finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeaningHtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/LeaningHtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leap Year finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leap Year finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python6exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python6exp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weeksLeft.py" beforeDir="false" afterPath="$PROJECT_DIR$/weeksLeft.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,12 +57,12 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shamstajbir"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shamstajbir&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -41,26 +75,225 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2bVEMwoWO7JrXwUEbclclSXJ1bq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.FirstProgram.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.LeaningHtml.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01-MULTIPLICATION.PY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_animation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_profile_Animation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_slicing_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ApnaCollege.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AsciiValue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AssignmentOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BMI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CD harry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calendar_Finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Covid19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funny_Motion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.If &amp; else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kruskal’s Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabMst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leap Year finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QR making .executor&quot;: &quot;Run&quot;,
+    &quot;Python.QR-making.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Strassen's Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.additions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.auditorium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bikeshare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calender finder.executor&quot;: &quot;Run&quot;,
+    &quot;Python.captalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chatbot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp10th.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exp5_soft_com.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indexing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.indexing1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jersey.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labfinal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ml exp 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizza Deliveries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.programs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.propose_funny.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python exp5th.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python6exp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python_exp8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.records.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slicing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snakeGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tipSplitting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tupple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tutorial for all.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.update.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weeksLeft.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shamstajbirtonmoy/PycharmProjects/ApnaCollegePython/pythonProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.pizza Deliveries">
+    <configuration name="CD harry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CD harry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bikeshare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bikeshare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exp5_soft_com" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exp5_soft_com.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pizza Deliveries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pizza Deliveries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pizza Deliveries" />
+        <item itemvalue="Python.bikeshare" />
+        <item itemvalue="Python.exp5_soft_com" />
+        <item itemvalue="Python.update" />
+        <item itemvalue="Python.CD harry" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,25 +313,536 @@
       <workItem from="1706381726551" duration="446000" />
       <workItem from="1706382182533" duration="265000" />
       <workItem from="1706382452880" duration="2230000" />
-      <workItem from="1706385567990" duration="6337000" />
+      <workItem from="1706385567990" duration="8289000" />
+      <workItem from="1706677492246" duration="3511000" />
+      <workItem from="1706682417426" duration="11062000" />
+      <workItem from="1706766399860" duration="82000" />
+      <workItem from="1706766487118" duration="103000" />
+      <workItem from="1706766595411" duration="125000" />
+      <workItem from="1706766725385" duration="22000" />
+      <workItem from="1706766752331" duration="119000" />
+      <workItem from="1706766876265" duration="49000" />
+      <workItem from="1706767665952" duration="2156000" />
+      <workItem from="1706819823840" duration="687000" />
+      <workItem from="1706853006457" duration="2897000" />
+      <workItem from="1706899443947" duration="2785000" />
+      <workItem from="1706904978061" duration="2191000" />
+      <workItem from="1707210804584" duration="671000" />
+      <workItem from="1707283669623" duration="2455000" />
+      <workItem from="1707299698799" duration="792000" />
+      <workItem from="1707555893737" duration="161000" />
+      <workItem from="1707765544653" duration="610000" />
+      <workItem from="1707946293233" duration="4101000" />
+      <workItem from="1708063112371" duration="1305000" />
+      <workItem from="1708115320363" duration="1667000" />
+      <workItem from="1708282932024" duration="842000" />
+      <workItem from="1708359257843" duration="5000" />
+      <workItem from="1708418414752" duration="212000" />
+      <workItem from="1708581317662" duration="1962000" />
+      <workItem from="1708623909094" duration="1532000" />
+      <workItem from="1708665059784" duration="670000" />
+      <workItem from="1708670151409" duration="602000" />
+      <workItem from="1708852965527" duration="5299000" />
+      <workItem from="1709026567625" duration="1291000" />
+      <workItem from="1709103269466" duration="637000" />
+      <workItem from="1709113902281" duration="401000" />
+      <workItem from="1709198151582" duration="766000" />
+      <workItem from="1709314920820" duration="2393000" />
+      <workItem from="1709577523056" duration="4854000" />
+      <workItem from="1710089261494" duration="597000" />
+      <workItem from="1710141059128" duration="1810000" />
+      <workItem from="1710264717845" duration="6675000" />
+      <workItem from="1710390516790" duration="2742000" />
+      <workItem from="1710534613837" duration="7384000" />
+      <workItem from="1710791160456" duration="454000" />
+      <workItem from="1710871522223" duration="633000" />
+      <workItem from="1710957664214" duration="17000" />
+      <workItem from="1711053328928" duration="177000" />
+      <workItem from="1711359459627" duration="640000" />
+      <workItem from="1711362283569" duration="1510000" />
+      <workItem from="1711389351625" duration="1121000" />
+      <workItem from="1711390484978" duration="1988000" />
+      <workItem from="1711392603346" duration="28000" />
+      <workItem from="1711392636362" duration="233000" />
+      <workItem from="1711392875560" duration="34000" />
+      <workItem from="1711392914761" duration="112000" />
+      <workItem from="1711393032707" duration="60000" />
+      <workItem from="1711393098309" duration="123000" />
+      <workItem from="1711394682050" duration="613000" />
+      <workItem from="1711412067272" duration="3440000" />
+      <workItem from="1711996090513" duration="733000" />
+      <workItem from="1712047180404" duration="4666000" />
+      <workItem from="1712488294708" duration="1677000" />
+      <workItem from="1712521170401" duration="24000" />
+      <workItem from="1712521199724" duration="1103000" />
+      <workItem from="1712561122375" duration="7427000" />
+      <workItem from="1713032524693" duration="7518000" />
+      <workItem from="1713256336840" duration="7593000" />
+      <workItem from="1713537717640" duration="570000" />
+      <workItem from="1713626076457" duration="671000" />
+      <workItem from="1713767031284" duration="5712000" />
+      <workItem from="1714312506875" duration="1451000" />
+      <workItem from="1714383138360" duration="5116000" />
+      <workItem from="1714473637933" duration="1235000" />
+      <workItem from="1714686330395" duration="1273000" />
+      <workItem from="1715090708347" duration="648000" />
+      <workItem from="1715189913284" duration="222000" />
+      <workItem from="1715264716130" duration="2603000" />
+      <workItem from="1715276603273" duration="4269000" />
+      <workItem from="1715585489820" duration="731000" />
+      <workItem from="1715586296682" duration="233000" />
+      <workItem from="1715706408212" duration="90000" />
+      <workItem from="1715706503067" duration="24000" />
+      <workItem from="1715882783509" duration="1624000" />
+      <workItem from="1716160475853" duration="30000" />
+      <workItem from="1716482105304" duration="1872000" />
+      <workItem from="1716559463690" duration="2294000" />
+      <workItem from="1716715569789" duration="4931000" />
+      <workItem from="1716765438186" duration="1863000" />
+      <workItem from="1716921880818" duration="600000" />
+      <workItem from="1717088746065" duration="2064000" />
+      <workItem from="1717333501264" duration="605000" />
+      <workItem from="1717609568787" duration="8384000" />
+      <workItem from="1717965882776" duration="1506000" />
+      <workItem from="1718486108931" duration="949000" />
+      <workItem from="1718641450511" duration="245000" />
+      <workItem from="1719336665459" duration="1884000" />
+      <workItem from="1719400411664" duration="658000" />
+      <workItem from="1719694480715" duration="1480000" />
+      <workItem from="1719859908917" duration="604000" />
+      <workItem from="1720203937287" duration="3694000" />
+      <workItem from="1720472451234" duration="147000" />
+      <workItem from="1720815854348" duration="1433000" />
+      <workItem from="1721044733557" duration="3845000" />
+      <workItem from="1722286339992" duration="601000" />
+      <workItem from="1722749998339" duration="2020000" />
+      <workItem from="1722880647643" duration="598000" />
+      <workItem from="1723573516215" duration="4986000" />
+      <workItem from="1723821187571" duration="526000" />
+      <workItem from="1724000654291" duration="438000" />
+      <workItem from="1724090498128" duration="643000" />
+      <workItem from="1724190615947" duration="13000" />
+      <workItem from="1724265002367" duration="659000" />
+      <workItem from="1724610076759" duration="4085000" />
+      <workItem from="1724782993616" duration="676000" />
+      <workItem from="1724862195708" duration="640000" />
+      <workItem from="1724953532768" duration="24000" />
+      <workItem from="1725217376713" duration="88000" />
+      <workItem from="1725218069957" duration="15000" />
+      <workItem from="1725475689543" duration="255000" />
+      <workItem from="1725547487002" duration="27000" />
+      <workItem from="1725875055293" duration="3000" />
+      <workItem from="1725979545413" duration="32000" />
+      <workItem from="1725979605556" duration="103000" />
+      <workItem from="1726174210192" duration="601000" />
+      <workItem from="1726482390682" duration="630000" />
+      <workItem from="1726513915606" duration="907000" />
+      <workItem from="1727026807376" duration="634000" />
+      <workItem from="1727066731495" duration="2551000" />
+      <workItem from="1727115908972" duration="87000" />
+      <workItem from="1727177855413" duration="951000" />
+      <workItem from="1727374023251" duration="903000" />
+      <workItem from="1727866227356" duration="141000" />
+      <workItem from="1728599401192" duration="1402000" />
+      <workItem from="1728686488007" duration="949000" />
+      <workItem from="1728733507794" duration="25000" />
+      <workItem from="1737150000700" duration="3049000" />
+      <workItem from="1739871492402" duration="1239000" />
+      <workItem from="1739908310175" duration="36000" />
     </task>
-    <task id="LOCAL-00001" summary="Hi">
+    <task id="LOCAL-00072" summary="python_exp8">
       <option name="closed" value="true" />
-      <created>1706453276925</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1713032590222</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
       <option name="project" value="LOCAL" />
-      <updated>1706453276925</updated>
+      <updated>1713032590223</updated>
     </task>
-    <task id="LOCAL-00002" summary="printing new">
+    <task id="LOCAL-00073" summary="Rollercoaster height checker">
       <option name="closed" value="true" />
-      <created>1706478695334</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+      <created>1713035342054</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1706478695334</updated>
+      <updated>1713035342054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00074" summary="odd or even checker">
+      <option name="closed" value="true" />
+      <created>1713090991531</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1713090991531</updated>
+    </task>
+    <task id="LOCAL-00075" summary="BMI checker">
+      <option name="closed" value="true" />
+      <created>1713121485299</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1713121485299</updated>
+    </task>
+    <task id="LOCAL-00076" summary="roller coaster ticket">
+      <option name="closed" value="true" />
+      <created>1713123213022</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1713123213022</updated>
+    </task>
+    <task id="LOCAL-00077" summary="roller coaster ticket modified">
+      <option name="closed" value="true" />
+      <created>1713124402985</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1713124402985</updated>
+    </task>
+    <task id="LOCAL-00078" summary="python exp8">
+      <option name="closed" value="true" />
+      <created>1713333521748</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1713333521748</updated>
+    </task>
+    <task id="LOCAL-00079" summary="python exp9">
+      <option name="closed" value="true" />
+      <created>1713419097598</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1713419097598</updated>
+    </task>
+    <task id="LOCAL-00080" summary="python exp10">
+      <option name="closed" value="true" />
+      <created>1713538032259</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538032259</updated>
+    </task>
+    <task id="LOCAL-00081" summary="tuple">
+      <option name="closed" value="true" />
+      <created>1713626148522</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1713626148522</updated>
+    </task>
+    <task id="LOCAL-00082" summary="BMI Checker 2.0">
+      <option name="closed" value="true" />
+      <created>1713772359965</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1713772359965</updated>
+    </task>
+    <task id="LOCAL-00083" summary="leap year finder.">
+      <option name="closed" value="true" />
+      <created>1713825926744</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1713825926744</updated>
+    </task>
+    <task id="LOCAL-00084" summary="l year finder.">
+      <option name="closed" value="true" />
+      <created>1713890263429</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1713890263429</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Final Lab Python , Slicing and indexing">
+      <option name="closed" value="true" />
+      <created>1714409884029</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1714409884029</updated>
+    </task>
+    <task id="LOCAL-00086" summary="01_Lab_Final">
+      <option name="closed" value="true" />
+      <created>1715190132797</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1715190132797</updated>
+    </task>
+    <task id="LOCAL-00087" summary="01_Calendar_Finder">
+      <option name="closed" value="true" />
+      <created>1715265727834</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1715265727834</updated>
+    </task>
+    <task id="LOCAL-00088" summary="01_Calendar_Finder">
+      <option name="closed" value="true" />
+      <created>1715586353328</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1715586353328</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Ascii_value">
+      <option name="closed" value="true" />
+      <created>1715586517919</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1715586517920</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Sorting">
+      <option name="closed" value="true" />
+      <created>1715706522031</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1715706522031</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Calculator for all purpose">
+      <option name="closed" value="true" />
+      <created>1716753506332</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1716753506332</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Animation Practice">
+      <option name="closed" value="true" />
+      <created>1717609712753</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1717609712753</updated>
+    </task>
+    <task id="LOCAL-00093" summary="use of all operators">
+      <option name="closed" value="true" />
+      <created>1717619474542</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1717619474542</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Password Generator">
+      <option name="closed" value="true" />
+      <created>1717970702307</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1717970702307</updated>
+    </task>
+    <task id="LOCAL-00095" summary="funny">
+      <option name="closed" value="true" />
+      <created>1718641689397</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1718641689397</updated>
+    </task>
+    <task id="LOCAL-00096" summary="just">
+      <option name="closed" value="true" />
+      <created>1719366369048</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1719366369048</updated>
+    </task>
+    <task id="LOCAL-00097" summary="use of lambda">
+      <option name="closed" value="true" />
+      <created>1720355463764</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1720355463765</updated>
+    </task>
+    <task id="LOCAL-00098" summary="new">
+      <option name="closed" value="true" />
+      <created>1721140357632</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1721140357632</updated>
+    </task>
+    <task id="LOCAL-00099" summary="capitalizing the first word">
+      <option name="closed" value="true" />
+      <created>1722750238618</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1722750238619</updated>
+    </task>
+    <task id="LOCAL-00100" summary="palindromic">
+      <option name="closed" value="true" />
+      <created>1723573595018</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1723573595019</updated>
+    </task>
+    <task id="LOCAL-00101" summary="chatbot">
+      <option name="closed" value="true" />
+      <created>1723660072032</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1723660072032</updated>
+    </task>
+    <task id="LOCAL-00102" summary="chatbot">
+      <option name="closed" value="true" />
+      <created>1724090511105</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1724090511105</updated>
+    </task>
+    <task id="LOCAL-00103" summary="chatbot.">
+      <option name="closed" value="true" />
+      <created>1724265062234</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1724265062235</updated>
+    </task>
+    <task id="LOCAL-00104" summary="jersey1">
+      <option name="closed" value="true" />
+      <created>1724610998634</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1724610998634</updated>
+    </task>
+    <task id="LOCAL-00105" summary="jersey1">
+      <option name="closed" value="true" />
+      <created>1724611308987</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1724611308987</updated>
+    </task>
+    <task id="LOCAL-00106" summary="jersey2">
+      <option name="closed" value="true" />
+      <created>1724783070356</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1724783070356</updated>
+    </task>
+    <task id="LOCAL-00107" summary="jersey3">
+      <option name="closed" value="true" />
+      <created>1724862214415</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1724862214415</updated>
+    </task>
+    <task id="LOCAL-00108" summary="jersey3">
+      <option name="closed" value="true" />
+      <created>1724862235256</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1724862235256</updated>
+    </task>
+    <task id="LOCAL-00109" summary="jersey4">
+      <option name="closed" value="true" />
+      <created>1724953547464</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1724953547465</updated>
+    </task>
+    <task id="LOCAL-00110" summary="chatbot">
+      <option name="closed" value="true" />
+      <created>1725217425628</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1725217425629</updated>
+    </task>
+    <task id="LOCAL-00111" summary="jokes a part">
+      <option name="closed" value="true" />
+      <created>1726482421037</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1726482421037</updated>
+    </task>
+    <task id="LOCAL-00112" summary="flower making">
+      <option name="closed" value="true" />
+      <created>1727026842924</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1727026842924</updated>
+    </task>
+    <task id="LOCAL-00113" summary="small chatbot">
+      <option name="closed" value="true" />
+      <created>1727115985841</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1727115985841</updated>
+    </task>
+    <task id="LOCAL-00114" summary="exp5_soft_computing">
+      <option name="closed" value="true" />
+      <created>1727177937005</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177937005</updated>
+    </task>
+    <task id="LOCAL-00115" summary="exp7_soft_computing">
+      <option name="closed" value="true" />
+      <created>1727177956439</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177956439</updated>
+    </task>
+    <task id="LOCAL-00116" summary="exp6_soft_computing">
+      <option name="closed" value="true" />
+      <created>1727177975259</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177975259</updated>
+    </task>
+    <task id="LOCAL-00117" summary="exp4_soft_computing">
+      <option name="closed" value="true" />
+      <created>1727177995269</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1727177995269</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Pizza_Deliveries">
+      <option name="closed" value="true" />
+      <created>1737153602923</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1737153602923</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Pizza_Deliveries_updated">
+      <option name="closed" value="true" />
+      <created>1739871522639</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1739871522639</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Pizza_Deliveries_updated1">
+      <option name="closed" value="true" />
+      <created>1739908339131</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1739908339132</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,11 +877,97 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hi" />
-    <MESSAGE value="printing new" />
-    <option name="LAST_COMMIT_MESSAGE" value="printing new" />
+    <MESSAGE value="Animation Practice" />
+    <MESSAGE value="use of all operators" />
+    <MESSAGE value="Password Generator" />
+    <MESSAGE value="funny" />
+    <MESSAGE value="just" />
+    <MESSAGE value="use of lambda" />
+    <MESSAGE value="new" />
+    <MESSAGE value="capitalizing the first word" />
+    <MESSAGE value="palindromic" />
+    <MESSAGE value="chatbot." />
+    <MESSAGE value="jersey1" />
+    <MESSAGE value="jersey2" />
+    <MESSAGE value="jersey3" />
+    <MESSAGE value="jersey4" />
+    <MESSAGE value="chatbot" />
+    <MESSAGE value="jokes a part" />
+    <MESSAGE value="flower making" />
+    <MESSAGE value="small chatbot" />
+    <MESSAGE value="exp5_soft_computing" />
+    <MESSAGE value="exp7_soft_computing" />
+    <MESSAGE value="exp6_soft_computing" />
+    <MESSAGE value="exp4_soft_computing" />
+    <MESSAGE value="Pizza_Deliveries" />
+    <MESSAGE value="Pizza_Deliveries_updated" />
+    <MESSAGE value="Pizza_Deliveries_updated1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pizza_Deliveries_updated1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$FirstProgram.coverage" NAME="FirstProgram Coverage Results" MODIFIED="1706478504137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$pizza_Deliveries.coverage" NAME="pizza Deliveries Coverage Results" MODIFIED="1739872442484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_basics.coverage" NAME="01_basics Coverage Results" MODIFIED="1716560373078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tutorial_for_all.coverage" NAME="tutorial for all Coverage Results" MODIFIED="1712279386260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$type_conversion.coverage" NAME="type conversion Coverage Results" MODIFIED="1707946746905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$calender_finder.coverage" NAME="calender finder Coverage Results" MODIFIED="1714687002405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Library/Containers/net.whatsapp.WhatsApp/Data/tmp/documents/4598E33E-95E2-4D0B-B5F2-2F540DE6CBE0" />
+    <SUITE FILE_PATH="coverage/pythonProject$python_exp5th.coverage" NAME="python exp5th Coverage Results" MODIFIED="1709616792968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Strassen_s_Matrix.coverage" NAME="Strassen's Matrix Coverage Results" MODIFIED="1708665018069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_calculator.coverage" NAME="01_calculator Coverage Results" MODIFIED="1716753469599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$loops2.coverage" NAME="loops2 Coverage Results" MODIFIED="1720355340566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1708582127164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$update.coverage" NAME="update Coverage Results" MODIFIED="1727068289949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tipSplitting.coverage" NAME="tipSplitting Coverage Results" MODIFIED="1712851735660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$exp10th.coverage" NAME="exp10th Coverage Results" MODIFIED="1713771647553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$python6exp.coverage" NAME="python6exp Coverage Results" MODIFIED="1710581785096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$auditorium.coverage" NAME="auditorium Coverage Results" MODIFIED="1711536531601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$propose_funny.coverage" NAME="propose_funny Coverage Results" MODIFIED="1718641644129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$exp5_soft_com.coverage" NAME="exp5_soft_com Coverage Results" MODIFIED="1728599407793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$classPython.coverage" NAME="classPython Coverage Results" MODIFIED="1706768665005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Turtle.coverage" NAME="Turtle Coverage Results" MODIFIED="1710585187661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$practice01.coverage" NAME="practice01 Coverage Results" MODIFIED="1723726062439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Funny_Motion.coverage" NAME="Funny_Motion Coverage Results" MODIFIED="1717609599728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1709615042220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$AssignmentOperator.coverage" NAME="AssignmentOperator Coverage Results" MODIFIED="1710581468503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Script.coverage" NAME="Script Coverage Results" MODIFIED="1724000685002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$additions.coverage" NAME="additions Coverage Results" MODIFIED="1713537884143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_slicing_practice.coverage" NAME="01_slicing_practice Coverage Results" MODIFIED="1715585530656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Covid19.coverage" NAME="Covid19 Coverage Results" MODIFIED="1715884626092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$02_practice.coverage" NAME="02_practice Coverage Results" MODIFIED="1719336739369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Calendar_Finder.coverage" NAME="Calendar_Finder Coverage Results" MODIFIED="1715585950579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$indexing.coverage" NAME="indexing Coverage Results" MODIFIED="1708418439458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$If___else.coverage" NAME="If &amp; else Coverage Results" MODIFIED="1713772261945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1708890303179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_MULTIPLICATION_PY.coverage" NAME="01-MULTIPLICATION.PY Coverage Results" MODIFIED="1716722444227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$fString.coverage" NAME="fString Coverage Results" MODIFIED="1712564213650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$QR_making.coverage" NAME="QR-making Coverage Results" MODIFIED="1718641474638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$records.coverage" NAME="records Coverage Results" MODIFIED="1708116551692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$weeksLeft.coverage" NAME="weeksLeft Coverage Results" MODIFIED="1712566079654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1721128377820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ml_exp_4.coverage" NAME="ml exp 4 Coverage Results" MODIFIED="1709026594202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$snakeGame.coverage" NAME="snakeGame Coverage Results" MODIFIED="1719859912217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1723660052778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$ApnaCollege.coverage" NAME="ApnaCollege Coverage Results" MODIFIED="1710309448913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$PasswordGenerator.coverage" NAME="PasswordGenerator Coverage Results" MODIFIED="1717970665899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$python_exp8.coverage" NAME="python_exp8 Coverage Results" MODIFIED="1713537762362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_animation.coverage" NAME="01_animation Coverage Results" MODIFIED="1716757561473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$jersey.coverage" NAME="jersey Coverage Results" MODIFIED="1724610757551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$captalize.coverage" NAME="captalize Coverage Results" MODIFIED="1723573567196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$01_profile_Animation.coverage" NAME="01_profile_Animation Coverage Results" MODIFIED="1717618925520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$bikeshare.coverage" NAME="bikeshare Coverage Results" MODIFIED="1737150042027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Kruskals_Algorithm.coverage" NAME="Kruskal’s Algorithm Coverage Results" MODIFIED="1708063885520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$LabMst.coverage" NAME="LabMst Coverage Results" MODIFIED="1710397100703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$QR_making_.coverage" NAME="QR making  Coverage Results" MODIFIED="1718486287101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$AsciiValue.coverage" NAME="AsciiValue Coverage Results" MODIFIED="1716482589492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tupple.coverage" NAME="tupple Coverage Results" MODIFIED="1709375687058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$CD_harry.coverage" NAME="CD harry Coverage Results" MODIFIED="1727026817327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$FirstProgram.coverage" NAME="FirstProgram Coverage Results" MODIFIED="1706677819173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Leap_Year_finder.coverage" NAME="Leap Year finder Coverage Results" MODIFIED="1714386572923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$indexing1.coverage" NAME="indexing1 Coverage Results" MODIFIED="1708854554262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$programs.coverage" NAME="programs Coverage Results" MODIFIED="1707210808567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1707949779410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$inputs.coverage" NAME="inputs Coverage Results" MODIFIED="1707948509024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$stringFunction.coverage" NAME="stringFunction Coverage Results" MODIFIED="1711390365148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$BMI.coverage" NAME="BMI Coverage Results" MODIFIED="1714383697028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$labfinal.coverage" NAME="labfinal Coverage Results" MODIFIED="1714686432123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,10 +1,4 @@
-n1=10
-n2=4
-print(n1+n2)
-print(n1-n2)
-print(n1*n2)
-print(n1/n2)
-print(n1**n2)
-print(n1//n2)
-print(n1%n2)
-print(divmod(n1,n2))
+a = []
+for i in range(2,6):
+ a.append(i)
+print(a)
