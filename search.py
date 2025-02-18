@@ -1,5 +1,5 @@
 def search_contact(contact_book):
-    search_key = input("Enter name to search in the model: ")
+    search_key = input("Enter name to search in the model by : ")
 
     flag = False
     for idx, contact in enumerate(contact_book):

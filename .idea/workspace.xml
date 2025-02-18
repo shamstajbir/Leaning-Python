@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="Pizza_Deliveries_updated1">
+    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="search_updated 1">
       <change afterPath="$PROJECT_DIR$/01-MULTIPLICATION.PY.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01_animation.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01_slicing_practice.py" afterDir="false" />
@@ -19,13 +19,16 @@
       <change afterPath="$PROJECT_DIR$/book_manager.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/conditional.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finalpract.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lending_manager.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/real_madrid_jersey.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/remove.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/restore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/snakeGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/view.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -449,14 +452,7 @@
       <workItem from="1737150000700" duration="3049000" />
       <workItem from="1739871492402" duration="1239000" />
       <workItem from="1739908310175" duration="36000" />
-    </task>
-    <task id="LOCAL-00072" summary="python_exp8">
-      <option name="closed" value="true" />
-      <created>1713032590222</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1713032590223</updated>
+      <workItem from="1739910651584" duration="306000" />
     </task>
     <task id="LOCAL-00073" summary="Rollercoaster height checker">
       <option name="closed" value="true" />
@@ -842,7 +838,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739908339132</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="search_updated 1">
+      <option name="closed" value="true" />
+      <created>1739910778562</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1739910778562</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -877,7 +881,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Animation Practice" />
     <MESSAGE value="use of all operators" />
     <MESSAGE value="Password Generator" />
     <MESSAGE value="funny" />
@@ -902,7 +905,8 @@
     <MESSAGE value="Pizza_Deliveries" />
     <MESSAGE value="Pizza_Deliveries_updated" />
     <MESSAGE value="Pizza_Deliveries_updated1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pizza_Deliveries_updated1" />
+    <MESSAGE value="search_updated 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="search_updated 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$pizza_Deliveries.coverage" NAME="pizza Deliveries Coverage Results" MODIFIED="1739872442484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
