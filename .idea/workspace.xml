@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="search_updated 1">
-      <change afterPath="$PROJECT_DIR$/01-MULTIPLICATION.PY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_animation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_slicing_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Covid19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Funny_Motion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QR making .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QR-making.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bikeshare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finalpract.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lending_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_madrid_jersey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snakeGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AsciiValue.py" beforeDir="false" afterPath="$PROJECT_DIR$/AsciiValue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calendar_Finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar_Finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeaningHtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/LeaningHtml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leap Year finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leap Year finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python6exp.py" beforeDir="false" afterPath="$PROJECT_DIR$/python6exp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weeksLeft.py" beforeDir="false" afterPath="$PROJECT_DIR$/weeksLeft.py" afterDir="false" />
-    </list>
+    <list default="true" id="29d6b118-009f-4028-89d1-31fa78a2d5ec" name="Changes" comment="search_updated 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -452,7 +414,7 @@
       <workItem from="1737150000700" duration="3049000" />
       <workItem from="1739871492402" duration="1239000" />
       <workItem from="1739908310175" duration="36000" />
-      <workItem from="1739910651584" duration="306000" />
+      <workItem from="1739910651584" duration="638000" />
     </task>
     <task id="LOCAL-00073" summary="Rollercoaster height checker">
       <option name="closed" value="true" />
